@@ -12,3 +12,14 @@ _floor text floor_
 __two floor text two floor__
 
 _floor **two asterisks two asterisks** floor_
+
+* asterisk
+* asterisk
+  * TAB asterisk
+  * TAB asterisk
+  
+1. one dot
+1. one dot
+1. one dot
+  1. TAB one dot
+  1. TAB one dot
