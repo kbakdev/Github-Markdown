@@ -24,4 +24,5 @@ _floor **two asterisks two asterisks** floor_
    1. TAB one dot
    1. TAB one dot
 
+`![Logo](/path/to/logo.png)`
 ![Logo](/logo.png)
