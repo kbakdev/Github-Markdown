@@ -26,3 +26,30 @@ _floor **two asterisks two asterisks** floor_
 
 `![Logo](/path/to/logo.png)`
 ![Logo](/logo.png)
+
+[This repo](https://github.com/53jk1/Github-Markdown)
+
+Blockquotes? K.
+> dialogue 1
+> dialogue 2
+
+let's check how
+`<inline>` works.
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+    function fancyAlert(arg) {
+      if(arg) {
+        $.facebox({div:'#foo'})
+      }
+    }
+    
+def foo():
+    if not bar:
+        return True
