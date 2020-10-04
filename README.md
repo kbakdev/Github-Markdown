@@ -70,4 +70,8 @@ Content in the first column | Content in the second column
 53jk1#1
 53jk1/Github-Markdown#1
 
-@kodxana
+@kodxana :atom:
+
+~~crossed out~~ 
+
+![guy with cellphone](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png)
